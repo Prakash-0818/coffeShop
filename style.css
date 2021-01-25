@@ -1,0 +1,28 @@
+
+.nav-wrapper{
+    background-color: #795548;
+    
+}
+.slider .indicators .indicator-item.active{
+    background-color: #795548;
+}
+.move {
+  margin-top: 60px;
+  margin-bottom: 10px;
+}
+.waves-effect.waves-light.btn{
+    background-color: #795548;
+}
+.parallax-container{
+    min-height: 380px;
+    height: auto;
+}
+.icon-coffee{
+    color: #795548;
+}
+.footer-one{
+    background: #61443a;;
+}
+.footer-two{
+    background: #795548;
+}
